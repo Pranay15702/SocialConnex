@@ -1,5 +1,5 @@
 # SocialConnex
-This is my first guided project using MERN stack. The project is basically a socail media web app on which a user can discover new people, create account, follow or unfollow another user, post content, like and comment on each other content. The authentication and authorization is handeled using JSOM web tokens (JWT). 
+This is my first guided project using MERN stack. The project is basically a social media web app on which a user can discover new people, create account, follow or unfollow another user, post content, like and comment on each other content. The authentication and authorization is handled using JSOM web tokens (JWT). 
 
 👥 Connect with Like-Minded Souls:
 Discover and connect with a diverse range of users, each with their unique passions and interests. Follow your friends, family, or people with shared hobbies, and let them follow you in return. 🤝
@@ -15,7 +15,7 @@ Create a captivating profile that reflects your personality, interests, and aspi
 
 Get ready to embark on a journey of discovery, inspiration, and friendship at SocialSphere. Let's make the world a better place—one connection at a time. Join us now! 🚀
 
-This project is created by reading a book wriiten by [Shama Hoque](https://github.com/shamahoque)
+This project is created by reading a book written by [Shama Hoque](https://github.com/shamahoque)
 
 
 https://github.com/Pranay15702/SocialConnex/assets/91537327/4719fb54-c39d-4a69-a0f3-f631f72f642f
