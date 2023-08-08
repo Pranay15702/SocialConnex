@@ -1,5 +1,5 @@
 # SocialConnex
-This is my first guided project using MERN stack. The project is basically a social media web app on which a user can discover new people, create account, follow or unfollow another user, post content, like and comment on each other content. The authentication and authorization is handled using JSOM web tokens (JWT). 
+This is my first guided project using MERN stack. The project is basically a social media web app on which a user can discover new people, create account, follow or unfollow another user, post content, like and comment on each other content. The authentication and authorization is handled using JSON web tokens (JWT). 
 
 👥 Connect with Like-Minded Souls:
 Discover and connect with a diverse range of users, each with their unique passions and interests. Follow your friends, family, or people with shared hobbies, and let them follow you in return. 🤝
